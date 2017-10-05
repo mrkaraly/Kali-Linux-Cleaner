@@ -5,7 +5,7 @@ Little cleaner script for Kali linux
 
 * You have to be a "root" user
 ```
-root@ubuntu:~# ./clean.sh
+root@kali:~# ./clean.sh
 ```
 
 # Authors
